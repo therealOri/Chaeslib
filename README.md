@@ -25,7 +25,7 @@ __ __
 <br>
 <br>
 
-# Example
+# Example | Documentation
 This very basic example is what I do to make things work and showcase how to use things. (Copy and pasting this code will give you something that works for encrypting messages.) If you replace the way to get a message with opening a file and getting bytes, then it can work for files as well. (It is up to you to optimize for large files.)
 ```python
 from Chaeslib import Chaes
