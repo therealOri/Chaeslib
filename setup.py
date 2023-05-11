@@ -17,5 +17,5 @@ setuptools.setup(
     description="A minimalistic and simple AES256-GCM+ChaCha20_Poly1305 library. For encrypting data using both 'AES256-GCM' & 'ChaCha20_Poly1305'.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/therealOri/Chaes",
+    url="https://github.com/therealOri/Chaeslib",
 )
